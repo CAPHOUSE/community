@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.example.CommunityApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.201 s <<< FAILURE! - in com.example.CommunityApplicationTests
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: The class com.example.CommunityApplicationTests is not public.
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test03() should be public
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test2() should be public
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test5() should be public
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test6() should be public
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test8() should be public
+
+initializationError(com.example.CommunityApplicationTests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+

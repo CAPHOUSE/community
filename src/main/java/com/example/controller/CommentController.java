@@ -27,6 +27,7 @@ public class CommentController {
         comment.setCreateTime(new Date());
         comment.setStatus(0);
 
+//       添加
         commentService.addCommentCount(comment);
 
         return "redirect:/discuss/detail/" + id;
